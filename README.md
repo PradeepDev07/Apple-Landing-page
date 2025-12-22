@@ -21,3 +21,5 @@ A 3D interactive landing page for MacBook, built with React, Three.js, and GSAP.
    ```bash
    npm run dev
    ```
+#Deploy 
+- **Vercel** - https://apple-landing-page-olive.vercel.app/
